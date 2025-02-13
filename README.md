@@ -31,4 +31,4 @@ A Windows Forms desktop application that reads Word, PDF, TXT documents and **ra
 ### 安装 / Installation  
 1. 克隆仓库:  
    ```bash
-   
+   https://github.com/TimenoBattery93/TextMasker.git
